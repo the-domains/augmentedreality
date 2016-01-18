@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AugmentedReality]]></title>
         <description><![CDATA[AugmentedReality]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/augmentedreality/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:11:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 20:12:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/augmentedreality/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2016/01/ces-oculus-david-pierce-demo.jpg">]]></description>
+            <link>https://thegrid.ai/augmentedreality/6ef96851-b575-4cf5-8bb7-cf455cb81b3c/index.html</link>
+            <guid isPermaLink="false">6ef96851-b575-4cf5-8bb7-cf455cb81b3c</guid>
+            <pubDate>Mon, 18 Jan 2016 20:11:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2016/01/CES_24-NEW-1024x681.jpg">]]></description>
-            <link>undefinedbb0718a0-b191-4703-9e45-460ff681be35/index.html</link>
+            <link>https://thegrid.ai/augmentedreality/bb0718a0-b191-4703-9e45-460ff681be35/index.html</link>
             <guid isPermaLink="false">bb0718a0-b191-4703-9e45-460ff681be35</guid>
             <pubDate>Mon, 18 Jan 2016 20:11:14 GMT</pubDate>
         </item>
